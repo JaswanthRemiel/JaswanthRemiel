@@ -49,7 +49,10 @@ Whether you're a fellow developer, a tech enthusiast, or simply curious about wh
 - ⚡ Fun fact: I keep night shift swithed on at all times
 - 
 <br clear="both">
-<img src="https://github.com/JaswanthRemiel/JaswanthRemiel/blob/output/github-contribution-grid-snake2.svg" />
+
+<img src="https://raw.githubusercontent.com/JaswanthRemiel/JaswanthRemiel/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Articles  
 <div align="left">
