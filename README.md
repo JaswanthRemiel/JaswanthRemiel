@@ -46,8 +46,10 @@ Whether you're a fellow developer, a tech enthusiast, or simply curious about wh
 - 🔭 I’m currently working on [my Portfolio](https://jaswanthremiel.eu.org)  
 - 🌱 I’m currently learning  and Web3  
 - ❓ Ask me about anything related to MERN stack and related technologies <3  
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+- ⚡ Fun fact: I keep night shift swithed on at all times
+- 
+<br clear="both">
+<img src="https://github.com/JaswanthRemiel/JaswanthRemiel/blob/output/github-contribution-grid-snake2.svg" />
 
 ## Articles  
 <div align="left">
@@ -57,8 +59,6 @@ Whether you're a fellow developer, a tech enthusiast, or simply curious about wh
 </td></tr></table>  
 
 <br/>  
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/JaswanthRemiel/JaswanthRemiel/output/snake.svg" alt="Snake animation" />
-
-###
+### Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
