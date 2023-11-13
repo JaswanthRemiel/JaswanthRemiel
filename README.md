@@ -46,8 +46,11 @@ Whether you're a fellow developer, a tech enthusiast, or simply curious about wh
 - 🔭 I’m currently working on [my Portfolio](https://jaswanthremiel.eu.org)  
 - 🌱 I’m currently learning  and Web3  
 - ❓ Ask me about anything related to MERN stack and related technologies <3  
-- ⚡ Fun fact: I keep night shift swithed on at all times
-  
+- ⚡ Fun fact: I use light mode at all times
+
+Let's connect! Whether it's collaborating on exciting projects, discussing the latest frontend trends, or sharing cat GIFs, I'm always up for a good conversation. 
+Feel free to explore my repositories, and don't hesitate to drop me a message. Together, let's build the future of the web!
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JaswanthRemiel/JaswanthRemiel/output/snake.svg" alt="Snake animation" />
