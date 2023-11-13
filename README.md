@@ -47,7 +47,7 @@ Whether you're a fellow developer, a tech enthusiast, or simply curious about wh
 - 🌱 I’m currently learning  and Web3  
 - ❓ Ask me about anything related to MERN stack and related technologies <3  
 - ⚡ Fun fact: I keep night shift swithed on at all times
-- 
+  
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JaswanthRemiel/JaswanthRemiel/output/snake.svg" alt="Snake animation" />
