@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Jaswanth Remiel  
 
-<img src="https://media1.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtjMW5xYjl4MDdlOWVjN3htZjhtMHE1aXExa2x1YzBtODZpd3A0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJSDRt8csBx0A7YFfh/giphy.gif" align="center" style="width: 100%" />
 
 <a href="https://github.com/jaswanthremiel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,9 +32,15 @@ I'm a front-end developer with a passion for building innovative applications th
 My GitHub profile is where I showcase my latest projects and experiments, from simple web apps to more complex blockchain-based applications. I believe in the power of open-source and I am constantly exploring new technologies and frameworks to improve my skills and contribute to the developer community.
 
 Whether you're a fellow developer, a tech enthusiast, or simply curious about what I'm working on, feel free to explore my repositories, leave feedback, or collaborate with me on exciting projects. I'm always looking for new challenges and opportunities to learn, grow, and build the next generation of web applications.  
-  
 
-<br/>  
+### Go to your terminal and type 
+```
+npx remiel
+```
+  
+### Stats
+
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JaswanthRemiel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaswanthRemiel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -44,7 +50,7 @@ Whether you're a fellow developer, a tech enthusiast, or simply curious about wh
 
 
 - 🔭 I’m currently working on [my Portfolio](https://jaswanthremiel.eu.org)  
-- 🌱 I’m currently learning  and Web3  
+- 🌱 I’m currently building products that solve day-today problems!  
 - ❓ Ask me about anything related to MERN stack and related technologies <3  
 - ⚡ Fun fact: I use light mode at all times
 
@@ -54,17 +60,6 @@ Feel free to explore my repositories, and don't hesitate to drop me a message. T
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JaswanthRemiel/JaswanthRemiel/output/snake.svg" alt="Snake animation" />
-
-###
-
-## Articles  
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jaswanthremiel&theme=vue" alt="Layout with last medium posts"  />
-</div>
-
-</td></tr></table>  
-
-<br/>  
 
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
