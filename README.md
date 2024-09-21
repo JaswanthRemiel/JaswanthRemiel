@@ -7,4 +7,4 @@ I’m a product designer, software engineer, photographer, and writer, currently
 [Toolsbyremiel &rarr;](https://toolsbyremiel.vercel.app) <br />
 [More about me &rarr;](https://remiel.fyi/about) <br />
 [My personal website](https://remiel.fyi/) <br />
-[@remiel_lovin on Twitter &rarr;](https://twitter.com/jrxag_official)
+[@remiel on Twitter &rarr;](https://twitter.com/jrxag_official)
