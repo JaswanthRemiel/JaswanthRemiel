@@ -1,10 +1,10 @@
-👾 
+🕹️ 
 
 Hey, I’m Remiel.
 
-I’m a product designer, software engineer, photographer, and writer, currently living in INDIA. Right now I’m building [ToolsbyRemiel](https://remiel.fyi).
+I’m a product designer, software engineer, photographer, and writer, currently living in India 🇮🇳. Right now I’m building ToolsbyRemiel.
 
-[Campsite &rarr;](https://campsite.design) <br />
-[More about me &rarr;](https://brianlovin.com/about) <br />
-[My personal website](https://brianlovin.com/) <br />
-[@brian_lovin on Twitter &rarr;](https://twitter.com/brian_lovin)
+[Toolsbyremiel &rarr;](https://toolsbyremiel.vercel.app) <br />
+[More about me &rarr;](https://remiel.fyi/about) <br />
+[My personal website](https://remiel.fyi/) <br />
+[@remiel_lovin on Twitter &rarr;](https://twitter.com/jrxag_official)
