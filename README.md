@@ -32,7 +32,7 @@ Check these out
       <h3>TrackCode</h3>
       <p>Organises LeetCode problems by the companies that ask them, with daily streaks, a contribution heatmap, live LeetCode stats, and an AI study coach that works with your own OpenAI, Anthropic or Gemini key.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Firebase</code></p>
-      <p><a href="https://github.com/JaswanthRemiel/TrackCode"><strong>Source →</strong></a> &nbsp; <a href="https://leettrack.remiel.work"><strong>Demo →</strong></a></p>
+      <p><a href="https://github.com/JaswanthRemiel/TrackCode"><strong>Source →</strong></a> &nbsp; <a href="https://trackcode.remiel.work"><strong>Demo →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <sub>MONITORING / 04</sub>
